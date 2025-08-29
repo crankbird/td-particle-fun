@@ -1,1 +1,17 @@
+# macOS junk
 .DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# TouchDesigner temp/backup files
+*.toe~          # autosave backups
+*.tox~          # component backups
+*.backup        # TD backup files
+*.tdc           # TD compiled code cache
+*.tdu           # TD temporary file
+*.log           # log outputs
+
+# IDE/editor files
+.vscode/
+.idea/
